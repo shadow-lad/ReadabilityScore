@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="358cc0d6-1345-4c8d-bd80-5c8c431d31c3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1ZzPoeHrC7rOldiSmrA1dYfIut5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems-Pow_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems-Quadratic_equation_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem" />
+      <module name="Problems-The_index_of_an_argument_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Problem" />
+      <module name="Problems-Calculator_-_2_main" />
+      <option name="PROGRAM_PARAMETERS" value="MAX 7 3 4 1 8 11 3 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="Problems-Are_siblings__main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Problem" />
+      <item itemvalue="Application.Problem2" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Problem2" />
+        <item itemvalue="Application.Problem" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="358cc0d6-1345-4c8d-bd80-5c8c431d31c3" name="Default Changelist" comment="" />
+      <created>1585839125796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585839125796</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="370" y="58" width="615" height="651" key="#Main" timestamp="1585931427550">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="370" y="58" width="615" height="651" key="#Main/0.0.1366.768@0.0.1366.768" timestamp="1585931427550" />
+    <state x="31" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585858522207">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="31" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1585858522207" />
+    <state width="1324" height="185" key="GridCell.Tab.0.bottom" timestamp="1585937317406">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1324" height="185" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585937317406" />
+    <state width="1324" height="185" key="GridCell.Tab.0.center" timestamp="1585937317405">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1324" height="185" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1585937317405" />
+    <state width="1324" height="185" key="GridCell.Tab.0.left" timestamp="1585937317405">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1324" height="185" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1585937317405" />
+    <state width="1324" height="185" key="GridCell.Tab.0.right" timestamp="1585937317406">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1324" height="185" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1585937317406" />
+    <state x="366" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1585930327219">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="366" y="211" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1585930327219" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1585857739274">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1585857739274" />
+  </component>
+</project>
